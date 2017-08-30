@@ -1,9 +1,10 @@
 {
-  "name": "darkangel",
+  "name": "enigma",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.15.4",
     "selenium-webdriver": "^3.5.0"
   },
   "devDependencies": {},
